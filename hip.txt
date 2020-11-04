@@ -1,2 +1,4 @@
 loren ipsum   
 text sample
+this is anther text file
+an it is a modified file
