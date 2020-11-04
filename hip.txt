@@ -2,3 +2,5 @@ loren ipsum
 text sample
 this is anther text file
 an it is a modified file
+addding more and more data to same file
+to check the status of commit
